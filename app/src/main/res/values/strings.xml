@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InterfaceExample</string>
+
+
+    <string-array name="country">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+    </string-array>
+    <string name="Afghanistan">Afghanistan, landlocked multiethnic country located in the heart of south-central Asia. Lying along important trade routes connecting southern and eastern Asia to Europe and the Middle East, Afghanistan has long been a prize sought by empire builders, and for millennia great armies have attempted to subdue it, leaving traces of their efforts in great monuments now fallen to ruin. The country’s forbidding landscape of deserts and mountains has laid many imperial ambitions to rest, as has the tireless resistance of its fiercely independent peoples—so independent that the country has failed to coalesce into a nation but has instead long endured as a patchwork of contending ethnic factions and ever-shifting alliances.</string>
+    <string name="Albania">Algeria, large, predominantly Muslim country of North Africa. From the Mediterranean coast, along which most of its people live, Algeria extends southward deep into the heart of the Sahara, a forbidding desert where the Earth’s hottest surface temperatures have been recorded and which constitutes more than four-fifths of the country’s area. The Sahara and its extreme climate dominate the country. The contemporary Algerian novelist Assia Djebar has highlighted the environs, calling her country “a dream of sand.”</string>
+    <string name="Algeria">Andorra, small independent European coprincipality situated among the southern peaks of the Pyrenees Mountains and bounded by France to the north and east and by Spain to the south and west. It is one of the smallest states in Europe. The capital is Andorra la Vella.</string>
+    <string name="Andorra">Andorra, small independent European coprincipality situated among the southern peaks of the Pyrenees Mountains and bounded by France to the north and east and by Spain to the south and west. It is one of the smallest states in Europe. The capital is Andorra la Vella.</string>
+    <string name="Angola">Angola, country located in southwestern Africa. A large country, Angola takes in a broad variety of landscapes, including the semidesert Atlantic littoral bordering Namibia’s “Skeleton Coast,” the sparsely populated rainforest interior, the rugged highlands of the south, the Cabinda exclave in the north, and the densely settled towns and cities of the northern coast and north-central river valleys. The capital and commercial centre is Luanda, a large port city on the northern coast that blends Portuguese-style colonial landmarks with traditional African housing styles and modern industrial complexes.</string>
+    <string name="Antigua">
+Antigua and Barbuda, islands that form an independent state in the Lesser Antilles in the eastern Caribbean Sea, at the southern end of the Leeward Islands chain. There is one dependency, the small island of Redonda. The capital is St. John’s, on Antigua.</string>
+    <string name="Argentina">Argentina, country of South America, covering most of the southern portion of the continent. The world’s eighth largest country, Argentina occupies an area more extensive than Mexico and the U.S. state of Texas combined. It encompasses immense plains, deserts, tundra, and forests, as well as tall mountains, rivers, and thousands of miles of ocean shoreline. Argentina also claims a portion of Antarctica, as well as several islands in the South Atlantic, including the British-ruled Falkland Islands (Islas Malvinas).</string>
+    <string name="Armenia">Armenia, country of Transcaucasia, lying just south of the great mountain range of the Caucasus and fronting the northwestern extremity of Asia. To the north and east Armenia is bounded by Georgia and Azerbaijan, while its neighbours to the southeast and west are, respectively, Iran and Turkey. Naxçıvan, an exclave of Azerbaijan, borders Armenia to the southwest. The capital is Yerevan (Erevan).</string>
+    <string name="Australia">Australia, the smallest continent and one of the largest countries on Earth, lying between the Pacific and Indian oceans in the Southern Hemisphere. Australia’s capital is Canberra, located in the southeast between the larger and more important economic and cultural centres of Sydney and Melbourne.</string>
+    <string name="Austria">Austria, largely mountainous landlocked country of south-central Europe. Together with Switzerland, it forms what has been characterized as the neutral core of Europe, notwithstanding Austria’s full membership since 1995 in the supranational European Union (EU).</string>
+    <string name="Azerbaijan">Azerbaijan, also spelled Azerbaidzhan, officially Azerbaijani Republic, Azerbaijani Azärbayjan Respublikasi, country of eastern Transcaucasia. Occupying an area that fringes the southern flanks of the Caucasus Mountains, it is bounded on the north by Russia, on the east by the Caspian Sea, on the south by Iran, on the west by Armenia, and on the northwest by Georgia. The exclave of Naxçıvan (Nakhichevan) is located southwest of Azerbaijan proper, bounded by Armenia, Iran, and Turkey. Azerbaijan includes within its borders the predominantly Armenian enclave of Nagorno-Karabakh, which from 1988 was the focus of intense conflict between Azerbaijan and Armenia. The capital of Azerbaijan is the ancient city of Baku (Bakı), whose harbour is the best on the Caspian Sea.</string>
+</resources>
